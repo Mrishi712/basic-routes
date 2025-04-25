@@ -8,7 +8,7 @@ const port = 8080;
 
 // Set up Basic Authentication middleware for all endpoints.
 app.use(basicAuth({
-    users: { 'admin': 'amrm' },  // Replace with your actual credentials
+    users: { 'rishi': 'amrm' },  // Replace with your actual credentials
     challenge: true,  // This causes most browsers to show a popup for credentials.
     realm: 'MyApplication',   // An optional realm name, you can customize it.
     unauthorizedResponse: (req) => {
