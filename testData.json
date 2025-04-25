@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John",
+    "gender": "Male",
+    "physics": 89,
+    "maths": 100,
+    "english": 100
+  },
+  {
+    "name": "AB",
+    "gender": "Male",
+    "physics": 99,
+    "maths": 98,
+    "english": 100
+  }
+]
